@@ -1,129 +1,118 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">Hi 👋, I'm Pradeep Thakur</h1>
-
-<h3 align="center">Aspiring Data Analyst | B.Sc. Graduate</h3>
+<!-- =============== PROFILE BANNER =============== -->
 
 <p align="center">
-  Turning raw data into meaningful insights 📊
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F9297&height=200&section=header&text=Pradeep%20Thakur&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Aspiring%20Data%20Analyst&descSize=20&descAlignY=70" width="100%" alt="Pradeep Thakur - Aspiring Data Analyst"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/pradeepthakur143">
-    <img src="https://img.shields.io/badge/GitHub-pradeepthakur143-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pradeep-singh-a425b0433/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=23&pause=1000&color=39C5D9&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Aspiring+Data+Analyst;Learning+%7C+Analyzing+%7C+Growing" alt="Typing SVG"/>
+</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hello! I'm **Pradeep Thakur**, a B.Sc. graduate and an aspiring Data Analyst passionate about exploring data and discovering meaningful insights.
+Hi, I'm **Pradeep Thakur!** Welcome to my GitHub profile.
 
-- 🌱 Currently learning data analysis and visualization.
-- 🐍 Exploring Python and its data analysis ecosystem.
-- 🗄️ Learning SQL for data querying and exploration.
-- 🧹 Interested in data cleaning and preprocessing.
-- 📊 Exploring data visualization and dashboard creation.
-- 📈 Learning Exploratory Data Analysis (EDA).
-- 🎯 Goal: Build practical projects and strengthen my analytical skills.
+- 📊 I'm an aspiring Data Analyst.
+- 🎓 I'm a graduate.
+- 🌱 I'm currently learning data analysis and visualization.
+- 🐍 I'm exploring Python and its data analysis ecosystem.
+- 🗄️ I'm interested in SQL and working with data.
+- 📈 I want to turn raw data into meaningful insights.
+- 🎯 My goal is to build practical projects and improve my analytical skills.
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### Programming & Data Analysis
+## 🛠️ Tools & Technologies I'm Exploring
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### Data Analysis Skills
-
-- 🧹 Data Cleaning & Preprocessing
-- 🔍 SQL Queries & Data Exploration
-- 📊 Data Visualization & Dashboards
-- 📈 Exploratory Data Analysis (EDA)
-- 🐍 Python Fundamentals for Data Analysis
-
-### Tools I'm Exploring
-
-<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 📊 Data Analytics Skills
 
-I'm building my data analysis portfolio and working toward practical projects.
-
-<!-- Replace these examples with your actual project repository links -->
-
-- 📊 **Exploratory Data Analysis** — Discover patterns, trends, and insights in datasets.
-- 🧹 **Data Cleaning Project** — Clean and prepare raw data for analysis.
-- 🗄️ **SQL Data Exploration** — Use SQL queries to explore and analyze structured data.
-- 📈 **Data Visualization Dashboard** — Present insights through clear visualizations.
-
-➡️ [Explore My Repositories](https://github.com/pradeepthakur143?tab=repositories)
+- 🧹 Data Cleaning and Preprocessing
+- 🔍 SQL Queries and Data Exploration
+- 📈 Exploratory Data Analysis (EDA)
+- 📊 Data Visualization and Dashboards
+- 🐍 Python Fundamentals for Data Analysis
+- 💡 Identifying Patterns and Insights
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Projects
+
+I'm working towards building practical data analytics projects.
+
+| Project | Description |
+|---|---|
+| 📊 Exploratory Data Analysis | Discover patterns and trends in datasets |
+| 🧹 Data Cleaning | Prepare raw data for analysis |
+| 🗄️ SQL Data Analysis | Explore and query structured data |
+| 📈 Data Visualization | Present insights using charts and dashboards |
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pradeepthakur143&show_icons=true&theme=default&hide_border=true"
-    alt="Pradeep's GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepthakur143&layout=compact&theme=default&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <a href="https://github.com/pradeepthakur143?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
 </p>
 
 ---
 
-## 🎯 My Current Focus
+## 📈 GitHub Statistics
 
-- Strengthening Python fundamentals for data analysis.
-- Practicing SQL queries and database exploration.
-- Learning effective data cleaning techniques.
-- Improving data visualization and storytelling.
-- Creating projects to demonstrate my analytical skills.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepthakur143&show_icons=true&theme=default&hide_border=true" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepthakur143&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepthakur143&theme=default&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🌱 Currently Learning
+
+- Python for Data Analysis
+- SQL and Database Queries
+- Data Cleaning Techniques
+- Exploratory Data Analysis
+- Data Visualization and Storytelling
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://github.com/pradeepthakur143">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/pradeep-singh-a425b0433/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-💬 I'm interested in learning, collaborating on beginner-friendly data projects, and connecting with people in the data analytics community.
 
 ---
 
 <p align="center">
-  <b>“Learning from data, one insight at a time.”</b>
+  <i>"Turning Data into Insights, One Step at a Time."</i> 🚀
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
